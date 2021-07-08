@@ -1,4 +1,4 @@
-#include "array.hpp"
+#include "../headers/array.hpp"
 #include <string>
 #include <iostream>
 using namespace std;
