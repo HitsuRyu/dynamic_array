@@ -1,4 +1,3 @@
-// ЛАБОРАТОРНАЯ РАБОТА №6 ДАВЛЕТШИН РОМАН МАРАТОВИЧ М6О-208Б-19
 #include "array.hpp"
 #include <string>
 #include <iostream>
